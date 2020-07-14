@@ -1,0 +1,6 @@
+    /* CSS Reset */
+    *{margin: 0;border: none;padding: 0;}
+    .wrap{width:480px;margin: 0 auto;}
+    img{vertical-align:baseline;}
+    a{color:inherit;text-decoration:none;}
+    ul,li,ol{list-style:none;}
