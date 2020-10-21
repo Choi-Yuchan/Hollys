@@ -1,0 +1,14 @@
+   
+    /* CSS Reset */
+    *{margin: 0;border: none;padding: 0;}
+    img{vertical-align:top;}
+    a{color:#000000;text-decoration:none;}
+    ul,li,ol{list-style:none;}
+    .clearfix::after{content: '';display: block;clear: both;}
+
+    body{
+      font-family: 'Noto Sans KR';
+    }
+    .eng{font-family: 'Roboto';}
+    
+    .grid940{width: 940px;margin:0 auto;}

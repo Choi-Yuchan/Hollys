@@ -1,0 +1,8 @@
+@charset 'UTF-8';
+
+    /* footer */
+    footer{padding-top:25px;padding-bottom:46px;background-color: #ba000c;}
+    footer li{float: left;}
+    footer li a{color:white;padding-left:6px;padding-right:6px;border-right:1px solid white;font-size: 14px;}
+    footer li:first-child{padding-left: 0;}
+    footer p{color: white;font-size: 12px;line-height: 16px;margin-top: 20px;}

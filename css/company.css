@@ -1,0 +1,16 @@
+@charset 'UTF-8';
+
+/* company.css */
+    .page_tit{padding:20px 0 40px;font-family:'Roboto';font-weight:bold;font-size:24px;color:#333333;}
+    .art_tit{font-weight:bold;font-size:16px;color:#333333;}
+    .page_txt{font-size:14px;line-height:21px;color:#666666;}
+    .comp{padding:10px 0;}
+    .comp_header,.comp_art{padding:30px 0;}
+    .comp_header>p:last-child{font-weight:bold;}
+    .comp_art{border-bottom: 1px solid #ba000c;}
+    .comp_art:last-child{border:none;}
+    .comp_left{float:left;}
+    .comp_right{float:right;}
+    .comp_art p{padding:20px 0 40px;}
+    button.art_tit{box-sizing:border-box;padding:10px;background-color:#ba000c;color: white;cursor: pointer;border: 1px solid #ba000c;}
+    button.art_tit:hover{border: 1px solid #ba000c;background-color: white;color: #ba000c;transition:0.3s;}
